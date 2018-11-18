@@ -9,5 +9,4 @@ Plataforma OpenSource que permite una programación visual para conectar de form
 
 ## Cómo y porqué de tu proyecto
 El "cómo y porqué" del proyecto es claro: Nos calentamos muy rápido por Twitter.
-Soy muy fan del hashtag #NoMasSemaforos
-Si no sabes aún de lo que estoy hablando, ya estás tardando en buscar por el Hashtag ;-)
+Soy muy fan del hashtag #NoMasSemaforos. Si no sabes aún de lo que estoy hablando, ya estás tardando en buscar por el Hashtag y enterarte de la 'historia' ;-)
